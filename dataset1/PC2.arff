@@ -6,15 +6,15 @@
 @attribute LOC_CODE_AND_COMMENT numeric
 @attribute LOC_COMMENTS numeric
 @attribute CONDITION_COUNT numeric
-@attribute CYCLOMATIC_COMPLEXITY numeric
+@attribute CYCLOMATIC_COMPLEXITY numeric m
 @attribute CYCLOMATIC_DENSITY numeric
 @attribute DECISION_COUNT numeric
 @attribute DECISION_DENSITY numeric
-@attribute DESIGN_COMPLEXITY numeric
+@attribute DESIGN_COMPLEXITY numeric m
 @attribute DESIGN_DENSITY numeric
 @attribute EDGE_COUNT numeric
-@attribute ESSENTIAL_COMPLEXITY numeric
-@attribute ESSENTIAL_DENSITY numeric
+@attribute ESSENTIAL_COMPLEXITY numeric m
+@attribute ESSENTIAL_DENSITY numeric 
 @attribute LOC_EXECUTABLE numeric
 @attribute PARAMETER_COUNT numeric
 @attribute GLOBAL_DATA_COMPLEXITY numeric
