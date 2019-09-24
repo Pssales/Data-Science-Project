@@ -1,4 +1,4 @@
-loc,v(g),ev(g),iv(g),n,v,l,d,i,e,b,t,lOCode,lOComment,lOBlank,locCodeAndComment,uniq_Op,uniq_Opnd,total_Op,total_Opnd,branchCount,defects
+McCabe_loc,McCabe_v(g),McCabe_ev(g),McCabe_iv(g),Halstead_n,Halstead_v,Halstead_l,Halstead_d,Halstead_i,Halstead_e,Halstead_b,Halstead_t,Halstead_lOCode,Halstead_lOComment,Halstead_lOBlank,locCodeAndComment,uniq_Op,uniq_Opnd,total_Op,total_Opnd,branchCount,defects
 1.1,1.4,1.4,1.4,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,2,2,2,2,1.2,1.2,1.2,1.2,1.4,false
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,true
 24,5,1,3,63,309.13,0.11,9.5,32.54,2936.77,0.1,163.15,1,0,6,0,15,15,44,19,9,false
